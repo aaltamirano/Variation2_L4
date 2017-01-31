@@ -1,6 +1,6 @@
-body {
-		background: yellow;
-	  }
+body 		{
+				background: yellow;
+			}
 .main
 			{	
 				width: 80%;
@@ -24,7 +24,7 @@ body {
 
 .body
 			{
-				background:white;
+				background: blue;
 				font-family: sans-serif;
 			}
 
